@@ -55,7 +55,7 @@ Each specialized agent applies specific scoring criteria, providing a nuanced ev
 
 1. Clone the repository
 ```bash
-git clone https://github.com/team-recursion/zurvey.git
+git clone https://github.com/hiteshhhh007/Zurvey-Team-Recursion.git
 cd zurvey
 ```
 
