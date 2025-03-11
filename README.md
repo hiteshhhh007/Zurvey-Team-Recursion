@@ -28,6 +28,22 @@ Zurvey leverages advanced AI to automatically validate open-ended survey respons
 - **Enhanced Data Integrity**: Make decisions based on authentic human feedback
 - **Actionable Insights**: Generate reliable market intelligence faster
 
+## 🧠 Multi-Agent Architecture
+
+Zurvey employs a sophisticated multi-agent system to thoroughly analyze survey responses:
+
+1. **Preprocessing Agent**: Handles initial cleaning and normalization
+2. **Quality Filter Agent**: Detects empty, short, or disturbing content (Score 0-1)
+3. **Relevance Agent**: Evaluates response relevance to survey topics (Score 0-5)
+4. **Complexity & Coherence Agent**: Analyzes linguistic structure and sophistication (Score 0-5)
+5. **Sentiment & Toxicity Agent**: Evaluates emotional content and potentially harmful language (Score -2 to 2)
+6. **AI Detection Agent**: Identifies signs of AI-generated responses (Score 0-3)
+7. **Final Decision Agent**: Aggregates all agent scores into a comprehensive quality rating
+
+Each specialized agent applies specific scoring criteria, providing a nuanced evaluation across multiple dimensions of quality. The system then produces a total score to flag responses as either high or low quality based on configurable thresholds.
+
+![Zurvey Workflow](assets/zurvey-workflow.png)
+
 ## 🚀 Getting Started
 
 ### Prerequisites
