@@ -109,7 +109,7 @@ python utils/plots.py
 
 ## 🏆 Team Recursion
 
-Zurvey is proudly developed by Team Recursion, a group of data scientists and market research innovators passionate about improving survey data quality.
+Zurvey is proudly developed by Team Recursion, a group of students passionate about improving survey data quality.
 
 ## 📄 License
 
@@ -118,7 +118,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
-
-## 📮 Contact
-
-For questions or support, please open an issue or contact us at team@recursionlabs.io
