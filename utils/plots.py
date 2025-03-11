@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 
-df = pd.read_csv("train-all.csv")
+df = pd.read_csv("")
 
 thresholds = list(range(-2, 13))
 accuracy_list = []
