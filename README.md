@@ -42,7 +42,7 @@ Zurvey employs a sophisticated multi-agent system to thoroughly analyze survey r
 
 Each specialized agent applies specific scoring criteria, providing a nuanced evaluation across multiple dimensions of quality. The system then produces a total score to flag responses as either high or low quality based on configurable thresholds.
 
-![Zurvey Workflow](assets/zurvey-workflow.png)
+![Zurvey Workflow](assets/12.png)
 
 ## 🚀 Getting Started
 
